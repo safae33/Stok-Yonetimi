@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "title": "Stok ve Ürün",
+      "icon": "mdi-package-variant",
+      "value": false,
+      "submenu": [
+      {
+        "id": 0,
+        "title": "Tüm Ürünler",
+        "to": "/allProducts",
+        "icon": "mdi-gamepad-circle"
+      },
+      {
+        "id": 2,
+        "title": "Stok",
+        "to": "/stock",
+        "icon": "mdi-package-variant"
+      }]
+    },
+    {
+      "id": 1,
+      "title": "Firmalar",
+      "icon": "mdi-home",
+      "value": false,
+      "submenu": [{
+        "id": 0,
+        "title": "Tüm Firmalar",
+        "to": "/allUsers",
+        "icon": "mdi-home-group"
+      }
+      ]
+    }
+  ]
+}
