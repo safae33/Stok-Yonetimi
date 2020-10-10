@@ -1,29 +1,16 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Stok yönetim yazılımının backend kısmı. Python ile yazılmıştır. API ve ORM içermektedir.
+* Fastapi, SQLAlchemy, Pydantic ve Marshmallow kullanılmaktadır.
+
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+*pipenv install
+ile gerekli kütüphaneler yüklendikten sonra run.py dosyası terminal ile çalıştırılması gerekmektedir.
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Safa Emre YILDIRIM
