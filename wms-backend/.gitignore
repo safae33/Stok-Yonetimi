@@ -1,0 +1,4 @@
+*.pyc
+*.pyo
+*/__pycache__
+app/modules/wms/models/__pycache__/product.cpython-38.pyc
